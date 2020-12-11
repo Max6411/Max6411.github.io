@@ -1,0 +1,94 @@
+.about1
+{
+    width: 20%;
+    float: left;
+    margin-top: 40px;
+}
+
+.about2
+{
+    width: 80%;
+    margin-left: 40%;
+    text-align: left;
+}
+
+.about3
+{
+    padding-bottom: 30px ;
+    text-align: center;
+}
+
+.about4
+{
+    padding-bottom: 30px ;
+    text-align: left;
+    word-wrap: 100px;
+}
+
+.info-content p
+{
+    color: black;
+}
+
+.about5
+{
+    font-size: 60px;
+    margin-top: 60px;
+    margin-bottom: 0px;
+}
+
+.about6
+{
+    font-size: 25px;
+    margin-top: 0px;
+}
+
+.img-color
+{
+    height: 650px;
+    width: 330px;
+}
+
+.product-parameter-main {
+    color: #333;
+    width: 80%;
+}
+
+.product-parameter-main h2 {
+    margin-top: 20px;
+    display: block;
+    width: 20%;
+    font-size: 22px;
+    color: #333;
+    position: absolute;
+    text-align: right;
+}
+
+.product-parameter-main ul {
+    display: block;
+    width: 80%;
+    padding: 24px 0 0;
+    position: relative;
+    font-size: 16px;
+    line-height: 24px;
+    float: right;
+    width: 1046px;
+}
+
+.product-parameter-main ul li {
+    margin-bottom: 24px;
+    *zoom: 1;
+}
+
+.product-parameter-main ul li span {
+    /* float: left;
+    width: 320px;
+    margin-right: 96px;
+    word-wrap: break-word;
+    word-break: break-all;  */
+    float: right;
+    width: 400px;
+    margin-right: 500px;
+    word-wrap: break-word;
+    word-break: break-all;
+}
